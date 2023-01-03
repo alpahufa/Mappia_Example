@@ -1,0 +1,14 @@
+qc_id,fid,nom,tipo,icon_url
+"0","1",Estación,Movilidad,./0.png
+"1","2",Metro,Movilidad,./0.png
+"2","3",Metro,Movilidad,./0.png
+"3","4",Metro,Movilidad,./0.png
+"4","5",Hospital,Hospital,./0.png
+"5","6",Hospital,Hospital,./0.png
+"6","7",Est. buses,Movilidad,./0.png
+"7","8",BEC,Cultura,./0.png
+"8","9",C.C.,Centro comercial,./0.png
+"9","10",C.C.,Centro Comercial,./0.png
+"10","11",C.C.,Centro Comercial,./0.png
+"11","12",C.C.,Centro Comercial,./0.png
+"12","13",Casco antiguo,Casco antiguo,./0.png
